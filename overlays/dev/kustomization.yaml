@@ -7,4 +7,4 @@ resources:
 images:
   - name: book-api
     newName: ginacmo/book-api
-    newTag: "latest"
+    newTag: "1a5a5d8"
